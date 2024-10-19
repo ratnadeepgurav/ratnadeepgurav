@@ -5,7 +5,7 @@
 
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-<img align="right" width="350" src = "https://img.freepik.com/premium-vector/man-sits-desk-with-laptop-plant-background_1013341-201141.jpg">
+<img align="right" width="450" src = "https://github.com/ratnadeepgurav/ratnadeepgurav/blob/main/Untitled_design-removebg-preview.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ratnadeepgurav&label=Profile%20views&color=0e75b6&style=flat" alt="ratnadeepgurav" /> </p>
 
 - 🔭 I’m currently working on **House Price Prediction**

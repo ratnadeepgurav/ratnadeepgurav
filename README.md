@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ratnadeep Gurav</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-<video align ="right" alt="Conding" width="400" src="[Untitles design.jpg](https://www.shutterstock.com/video/clip-1108327595-developer-coding-on-laptop-bw-loading-animation)"  >
-
+<video width="320" height="240" controls>
+  <source src="https://www.shutterstock.com/video/clip-1108327595-developer-coding-on-laptop-bw-loading-animation" type="video/mp4">
+  
+</video>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ratnadeepgurav&label=Profile%20views&color=0e75b6&style=flat" alt="ratnadeepgurav" /> </p>
 
 - 🔭 I’m currently working on **House Price Prediction**

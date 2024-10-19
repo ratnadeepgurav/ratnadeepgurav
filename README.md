@@ -1,4 +1,8 @@
+
 <h1 align="center">Hi 👋, I'm Ratnadeep Gurav</h1>
+
+![logo](https://github.com/ratnadeepgurav/ratnadeepgurav/blob/main/Banner.jpeg)
+
 <h3 align="center">A passionate Data Scientist from India</h3>
 
 <img align="right" width="350" src = "https://img.freepik.com/premium-vector/man-sits-desk-with-laptop-plant-background_1013341-201141.jpg">
